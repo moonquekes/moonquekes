@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @moonquekes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Mingyu Xiong
 
-<!---
-moonquekes/moonquekes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I am Mingyu Xiong (@moonquekes), a student at Wuhan University of Technology.
+
+- **Affiliation:** Wuhan University of Technology
+- **Email:** [311491@whut.edu.cn](mailto:311491@whut.edu.cn)
